@@ -9,5 +9,5 @@ print('''
 print(5465)
 print(4565.546)
 print(True)
-print(False) 
+print(False)
 print(45 + 4 - 45) #expression นิพจน์
